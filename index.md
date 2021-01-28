@@ -51,7 +51,14 @@ A List of completed HSLU Modules (projects, documentations or  summaries)
 
 - WVD Deployment
   - Automated staged Deployment Script for WVD
-  
+
+**Keepass on Docker**
+
+- Dockercompose Lösung für dockerized KDBX Datenbanken
+  - Keepass Container
+  - Fail2Ban Container
+  - Nginx Container mit LetsEncrypt Cert
+
 **Random**
 
 - PW2T
