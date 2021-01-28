@@ -1,22 +1,68 @@
-## Wilkommen
+## Welcome
 
-Auf dieser Seite stelle ich meine Person und einige Interessante Projekte vor.
+Here you will find some noteworthy projects which I maintain.
 
 ### About me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+As a System Engineer with a faible for programming, I maintain some interesting/useful projects which I haven't found anywhere like this, but which make my life (and hopefully others) a little easier.
 
-```markdown
-TBD What to display here
+### Noteworthy Projects
 
-- tbd
-- tbd
+#### Currently maintained
 
-[Link](url) and ![Image](src)
-```
+**General**
 
-### Projects
+- [NUC10i7FN-WindowsServer](https://github.com/daveschafer/NUC10i7FN-WindowsServer)
+  - Custom Driverset to run Windows Server on Intel NUC 10
+- [POSH-Fortigate (v5+)](https://github.com/daveschafer/Posh-FortiGate)
+  - PowerShell Module to Auto Backup Fortigate Firewalls (firmware v5 and v6)
+- [mysql-backup-posh](https://github.com/daveschafer/mysql-backup-posh)
+  - PowerShell Script to Auto Backup MySQL Databases
 
-1. Example Project 1
-2. TBD
-3. TBD
+**HSLU Modules**
+
+A List of completed HSLU Modules (projects, documentations or  summaries)  
+
+- [hslu-hs19-movk](https://github.com/daveschafer/hslu-hs19-movk) (summary)
+- [PRENEX39](https://github.com/daveschafer/PRENEX39) (project)
+- [IOT-HS18](https://github.com/daveschafer/IOT-HS18) (project & documentation)
+- [CSA](https://github.com/daveschafer/CSA) (Project)
+- [SWE-Project-FS18](https://github.com/daveschafer/SWE-Project-FS18) (project)
+
+#### Currently in work
+
+*These projects still need some work to be presented to the world.*
+
+**Monitoring**
+
+- Microsoft Graph Exchange Online Mailbox Querying
+- Microsoft Graph Exchange Online Mailbox - Backup Sensor
+  - Backup Querying Sensor (Replacement for IMAP) with custom lookups
+- SkyKick Backup Monitor
+  - Monitoring Module for SkyKick Microsoft 365 Backup
+- ESP32 PRTG Integrated SNMP T/P/H Monitoring Station
+
+**ESX**
+
+- ESX/vSphere Backup
+  - Backup Module for ESX (With Retentions)
+
+**Windows Virtual Desktop (WVD)**
+
+- WVD Deployment
+  - Automated staged Deployment Script for WVD
+  
+**Random**
+
+- PW2T
+  - Password to Teamviewer (Clipboard) Copy Solution
+- TS-Cleanup
+  - Remotedesktopserver (formerly TerminalServer) Cleanup Module
+
+### Photography
+
+Some Photography Projects I am currently working on, soon to be published (on another platform).
+
+- Covid-19 in Lucerne
+- Northern Landscapes
+- Verfall
