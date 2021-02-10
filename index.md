@@ -10,18 +10,23 @@ As a System Engineer with a faible for programming, I maintain some interesting/
 
 #### Currently maintained
 
+**PowerShell Modules**
+
+- [Posh-Fortigate6](https://github.com/daveschafer/Posh-FortiGate)
+  - PowerShell Module to automate backups, managing and configuration of Fortigate Firewalls (up to FortiOS 6.2.x)
+
 **General**
 
 - [NUC10i7FN-WindowsServer](https://github.com/daveschafer/NUC10i7FN-WindowsServer)
+
   - Custom Driverset to run Windows Server on Intel NUC 10
-- [POSH-Fortigate (v5+)](https://github.com/daveschafer/Posh-FortiGate)
-  - PowerShell Module to Auto Backup Fortigate Firewalls (firmware v5 and v6)
+
 - [mysql-backup-posh](https://github.com/daveschafer/mysql-backup-posh)
   - PowerShell Script to Auto Backup MySQL Databases
 
 **HSLU Modules**
 
-A List of completed HSLU Modules (projects, documentations or  summaries)  
+A List of completed HSLU Modules (projects, documentations or summaries)
 
 - [hslu-hs19-movk](https://github.com/daveschafer/hslu-hs19-movk) (summary)
 - [PRENEX39](https://github.com/daveschafer/PRENEX39) (project)
@@ -31,7 +36,7 @@ A List of completed HSLU Modules (projects, documentations or  summaries)
 
 #### Currently in work
 
-*These projects still need some work to be presented to the world.*
+_These projects still need some work to be presented to the world._
 
 **Monitoring**
 
